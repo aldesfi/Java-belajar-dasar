@@ -1,8 +1,17 @@
 class UrangTakBarakal 
 {
-    void tongkar() { }
+    void tongkar() 
+    { 
+        System.out.println("Yo Tongkar Ang Sen Giang");
+    }
 
-    void pamaliang() { } 
+    void pamaliang() 
+    { 
+        System.out.println("Ang Pamaliang");
+    }
 
-    void pangicua() { }
+    void pangicua() 
+    { 
+        System.out.println("Ang Pangicua Male Den");
+    }
 }
