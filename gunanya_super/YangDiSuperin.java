@@ -1,0 +1,7 @@
+class YangDiSuperin 
+{
+    void OperasiYangNggadaDisini()
+    {
+
+    }
+}
